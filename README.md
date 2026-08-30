@@ -204,12 +204,6 @@ The animations and emotional worlds are created directly inside the website.
 
 ---
 
-## 🌐 Live Website
-
-[🚀 Open UNSEEN](https://aiswariyaganesan1910-jpg.github.io/Visible-IN-Visible/unseen/index.html)
-
----
-
 ## 💭 What We Want People to Take Away
 
 We often judge people only by what we can see.
